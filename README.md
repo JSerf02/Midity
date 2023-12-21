@@ -5,7 +5,7 @@ Created by **Jacob Serfaty** in December 2023
 - MIDI parser based on the `SmfLite.cs` MIDI Parser by Keijiro Takahashi
 - If you have any questions or suggestions or if you find any bugs, please reach out to me at jserf02@gmail.com
 
-## Features- [Midity](#midity)
+## Features
 - A **MIDI parser** for note on/off statuses, velocities, and tempo changes
 - A **rhythm game hit-detection script** that reads user inputs and determines whether they should hit notes in a MIDI track
   - Some supported features include:
@@ -20,7 +20,7 @@ This package supports both the *Old Input System* and the *New Input System*, th
 
 ## Table of Contents
 - [Midity](#midity)
-  - [Features- Midity](#features--midity)
+  - [Features](#features)
   - [Table of Contents](#table-of-contents)
 - [Quick Start Guide](#quick-start-guide)
   - [Parsing MIDI Files - `Midi.cs`](#parsing-midi-files---midics)
